@@ -89,4 +89,6 @@ int main(int argc, char* argv[]) {
 
     // Возвращаем количество элементов, изменивших позицию
     return changed_count;
+    // Hello world
+    // add strings for commit
 }
